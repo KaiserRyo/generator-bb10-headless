@@ -1,0 +1,22 @@
+{
+  "name": "generator-bb10-headless",
+  "version": "1.0.0",
+  "description": "Yeoman Generator for BlackBerry10 Cordova Apps with a Headless component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/blackberry/generator-bb10-headless.git"
+  },
+  "keywords": [
+    "BlackBerry",
+    "blackberry10",
+    "cordova",
+    "headless",
+    "background"
+  ],
+  "author": "BlackBerry",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
